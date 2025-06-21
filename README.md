@@ -1,7 +1,7 @@
 # Hi, I’m rikuslv  
 
 ### Skills   
-- HTML, CSS
+- HTML, CSS, bit PHP
 - Currently Learning C++
 
 
@@ -10,5 +10,5 @@
 **Conntacts** 
 
 
-🔗 [X](https://x.com/RGra81052544) | Gmail - richards.grava@gmail.com
+🔗Gmail - richards.grava@gmail.com
 
