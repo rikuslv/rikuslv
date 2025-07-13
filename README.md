@@ -3,8 +3,8 @@
 ### Skills   
 - HTML,
 - CSS,
-- Python
-- Bit PHP
+- Python,
+- Bit PHP.
 
 ### Learning
 - C++
