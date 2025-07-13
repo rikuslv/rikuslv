@@ -1,8 +1,13 @@
 # Hi, I’m rikuslv  
 
 ### Skills   
-- HTML, CSS, Python and bit PHP
-- Currently Learning C++
+- HTML,
+- CSS,
+- Python
+- Bit PHP
+
+### Learning
+- C++
 
 
 ---  
