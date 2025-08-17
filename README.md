@@ -4,7 +4,7 @@
 - HTML,
 - CSS,
 - Python,
-- Bit PHP.
+- Little PHP.
 
 ### Learning
 - C++
