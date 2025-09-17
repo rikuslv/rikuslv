@@ -4,6 +4,7 @@
 - HTML,
 - CSS,
 - Python,
+- MYSQL
 - Little PHP.
 
 ### Learning
