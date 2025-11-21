@@ -5,7 +5,8 @@
 - CSS,
 - Python,
 - MYSQL,
-- Little PHP.
+- Little PHP,
+- (Arch linux hyprland dotfiles)
 
 ### Learning
 - C++
