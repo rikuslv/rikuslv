@@ -10,7 +10,7 @@
 
 ### Learning
 - C++
-
+- Rust
 
 ---  
 
