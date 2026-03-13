@@ -6,11 +6,8 @@
 - Python,
 - MYSQL,
 - Little PHP,
+- Little C ++
 - (Arch linux hyprland dotfiles)
-
-### Learning
-- C++
-- Rust
 
 ---  
 
