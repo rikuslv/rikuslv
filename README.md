@@ -7,7 +7,6 @@
 - MYSQL,
 - Little PHP,
 - Little C ++
-- (Arch linux hyprland dotfiles with ai help)
 
 ---  
 
@@ -16,3 +15,4 @@
 
 🔗Gmail - richards.grava@gmail.com
 
+(P.s. dotfiles i create with ai)
