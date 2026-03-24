@@ -7,7 +7,7 @@
 - MYSQL,
 - Little PHP,
 - Little C ++
-- (Arch linux hyprland dotfiles)
+- (Arch linux hyprland dotfiles with ai help)
 
 ---  
 
