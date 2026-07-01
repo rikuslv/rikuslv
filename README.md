@@ -10,7 +10,7 @@
 
 ---  
 
-**Conntacts** 
+**Contacts** 
 
 
 🔗Gmail - richards.grava@gmail.com
