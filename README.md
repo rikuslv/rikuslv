@@ -5,8 +5,8 @@
 - CSS,
 - Python,
 - MYSQL,
-- Little PHP,
-- Little C ++
+- PHP,
+- C ++
 
 ---  
 
